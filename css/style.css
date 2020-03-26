@@ -1,0 +1,32 @@
+body {
+  background-color: #EAF6F6;
+}
+table.header{
+  border: 2px;
+}
+table {
+  cellspacing:20%;
+  border-style: dashed;
+  color: black;
+}
+form{
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3,h2 {
+  color :#66BFBF;
+}
+ul{
+  color:black;
+}
+a{
+  color: blue;
+}
